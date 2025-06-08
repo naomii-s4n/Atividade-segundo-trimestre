@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
 
 :root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
+    --primary-color: #4a5f38;
+    --secondary-color: #95bb72;
+    --text-color: #658354;
     --background-color: #1b1b1b;
-    --button-hover: #012E40;
+    --button-hover: #4b6043;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
